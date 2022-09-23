@@ -1,0 +1,1 @@
+../../../.git/annex/objects/PM/j6/SHA256E-s267--edeff47ea3b0c63444a724fde6edfba58b4cd231fde68ca79a38d59d86a77a19.cls/SHA256E-s267--edeff47ea3b0c63444a724fde6edfba58b4cd231fde68ca79a38d59d86a77a19.cls

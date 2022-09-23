@@ -1,0 +1,13 @@
+{
+    "Name": "CuedRecall",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Alexis Kidder(*)",
+        "Anna Corriveau(*)",
+        "Lina Teichmann",
+        "Susan Wardle",
+        "Chris Baker",
+        "[(*) = equal contribution]"
+    ]
+}
