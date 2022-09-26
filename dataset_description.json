@@ -1,5 +1,5 @@
 {
-    "Name": "CuedRecall",
+    "Name": "Sustained Neural Representations of Personally Familiar People and Places During Cued Recall",
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "Authors": [
@@ -9,5 +9,6 @@
         "Susan Wardle",
         "Chris Baker",
         "[(*) = equal contribution]"
-    ]
+    ],
+    "License": "CC0"
 }
