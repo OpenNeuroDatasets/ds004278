@@ -1,0 +1,1 @@
+../../../.git/annex/objects/2w/Q8/SHA256E-s267--1f1ef14721e15b8d9108b5511fbd0053fdbdec9feba5026d447bed94026d12e1.cls/SHA256E-s267--1f1ef14721e15b8d9108b5511fbd0053fdbdec9feba5026d447bed94026d12e1.cls
